@@ -1,0 +1,6 @@
+ Utilizando o script SCRIPT VIEWS.txt disponível no portal, resolva os exercícios abaixo :
+
+ Criar uma view chamada VW USUARIO_ATIVO, que retorne o código, nome e documento de todos os usuários ativos.
+ Criar uma view chamada VW_TOTAL_SALARIO, que retorne o total gasto com salários.
+ Criar uma view chamada VW_QTD_FUNC, que retorne a quantidade de funcionários ativos.
+ Criar uma view chamada VW_NOME_FUNC, que retorne somente o primeiro nome dos funcionários ativos.
